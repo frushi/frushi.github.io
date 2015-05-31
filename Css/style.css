@@ -1,6 +1,9 @@
-text {
-	color: blue;
+body {
+	background-color: grey;
 }
-background-color{
+h1 {
 	color: pink;
+}
+p {
+	color: grey;
 }
