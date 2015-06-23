@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Ruge+Boogie);
+
+body { 
+	background: rgba(0, 0, 0, .3);
+	color: #000000;
+	font-family: Helvetica;
+
+}
+h1 {
+	color: #000000;
+	font-family: 'Ruge Boogie', 14px, sans-serif;
+	text-align: center;
+	text-transform: lowercase;
+
+}
+#slogan {
+	font-style: italic;
+	text-align: center;
+	text-transform: uppercase;
+}
+p {
+	text-align:left;
+}
