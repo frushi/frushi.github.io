@@ -1,23 +1,25 @@
-@import url(http://fonts.googleapis.com/css?family=Ruge+Boogie);
+@import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 
 body { 
+	font-family: 'Helvetica', serif;
 	background: rgba(0, 0, 0, .3);
 	color: #000000;
-	font-family: Helvetica;
+	text-decoration: normal;
 
 }
 h1 {
 	color: #000000;
-	font-family: 'Ruge Boogie', 14px, sans-serif;
+	font-family: 'Gloria Hallelujah', cursive;
 	text-align: center;
-	text-transform: lowercase;
+	
 
 }
 #slogan {
-	font-style: italic;
+	font-family: 'Gloria Hallelujah', cursive;
 	text-align: center;
 	text-transform: uppercase;
 }
 p {
 	text-align:left;
 }
+
